@@ -10,6 +10,8 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
+
+String PWD = "password";
 }
 
 // put function definitions here:
