@@ -7,7 +7,8 @@ void setup() {
   Serial.begin(115200);
   // put your setup code here, to run once:
   int result = myFunction(2, 3);
-  Serial.println("Setup done!");
+
+  int test = 0;
 }
 
 void loop() {
